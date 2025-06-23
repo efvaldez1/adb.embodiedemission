@@ -12,4 +12,5 @@ pytesseract==0.3.13
 python_docx==1.2.0
 sentence_transformers==3.4.1
 streamlit==1.43.2
-pdfminer.six
+pdfminer-six>=20240706
+pdfminer.six==20231228
